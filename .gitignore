@@ -32,6 +32,5 @@ ExportedObj/
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
-# Builds
+# Builds To Exclude
 *.apk
-*.unitypackage
